@@ -30,11 +30,11 @@ Este projeto foi construído com as seguintes tecnologias:
 
 | Tela Inicial | Carrinho |
 | :---: | :---: |
-| ![Página Inicial](ecommerce_frontend/src/assets/pagina_inicial.png/) | ![Carrinho](ecommerce_frontend/src/assets/carrinho.png) |
+| ![Página Inicial](ecommerce_frontend/src/assets/pagina_inicial_n.png/) | ![Carrinho](ecommerce_frontend/src/assets/carrinho_n.png) |
 
 | Gestão Admin | Histórico de Compras |
 | :---: | :---: |
-| ![Admin](ecommerce_frontend/src/assets/gestao_admin.png) | ![Pedidos](ecommerce_frontend/src/assets/historico.png) |
+| ![Admin](ecommerce_frontend/src/assets/gestao_admin_n.png) | ![Pedidos](ecommerce_frontend/src/assets/historico_n.png) |
 
 ## 💡 Aprendizados
 Este projeto permitiu consolidar conhecimentos essenciais como:
